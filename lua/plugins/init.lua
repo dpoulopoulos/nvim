@@ -23,8 +23,6 @@ return {
         "pyright",
   			"lua-language-server",
         "dockerfile-language-server",
-  			"html-lsp",
-        "css-lsp",
         "debugpy",
         "prettier",
         "flake8",
@@ -51,8 +49,6 @@ return {
 
         -- other
         "vimdoc",
-        "html",
-        "css"
   		},
   	},
   },
