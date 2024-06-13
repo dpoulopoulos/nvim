@@ -23,6 +23,7 @@ return {
         "pyright",
   			"lua-language-server",
         "dockerfile-language-server",
+        "yaml-language-server",
         "debugpy",
         "prettier",
         "flake8",
