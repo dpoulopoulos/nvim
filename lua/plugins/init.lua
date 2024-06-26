@@ -56,4 +56,8 @@ return {
 
   {"github/copilot.vim"},
 
+  {
+    "christoomey/vim-tmux-navigator",
+    lazy = false,
+  },
 }
