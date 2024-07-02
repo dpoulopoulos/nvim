@@ -21,6 +21,7 @@ return {
   	opts = {
   		ensure_installed = {
         "pyright",
+        "gopls",
   			"lua-language-server",
         "dockerfile-language-server",
         "yaml-language-server",
