@@ -22,6 +22,7 @@ return {
   		ensure_installed = {
         "pyright",
         "gopls",
+        "clangd",
   			"lua-language-server",
         "dockerfile-language-server",
         "yaml-language-server",
