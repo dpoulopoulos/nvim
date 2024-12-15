@@ -2,7 +2,8 @@ return {
   {
     -- Lightweight yet powerful formatter plugin for Neovim
     "stevearc/conform.nvim",
-    -- event = 'BufWritePre', -- uncomment for format on save
+    event = 'BufWritePre', -- uncomment for format on save
+    lazy = false,
     config = function()
       require "configs.conform"
     end,
