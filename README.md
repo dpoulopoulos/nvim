@@ -36,6 +36,7 @@ To uninstall this Neovim configuration in Linux/macOS systems, run the following
 rm -rf ~/.config/nvim
 rm -rf ~/.local/state/nvim
 rm -rf ~/.local/share/nvim
+rm -rf ~/.cache/nvim
 ```
 
 ## Customize
@@ -43,7 +44,7 @@ rm -rf ~/.local/share/nvim
 Feel free to customize the configuration files to suit your specific workflow. Key mappings, plugin
 settings, and LSP configurations are modularized for easy modification.
 
-See the official [walkthrough](https://nvchad.com/docs/config/walkthrough) to get started. ✏️
+Read this great [ebook](https://lazyvim-ambitious-devs.phillips.codes/) by Dusty Phillips to get started. ✏️
 
 ## Contributing
 
@@ -51,3 +52,4 @@ Feel free to submit issues 🪱, feature requests ✨, or pull requests 🎁 to 
 configuration!
 
 Happy coding! 🚀
+
