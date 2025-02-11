@@ -2,7 +2,7 @@ require("obsidian").setup({
   workspaces = {
     {
       name = "zettelkasten",
-      path = "/home/dimpo/onedrive/Documents/zettelkasten",
+      path = "~/vault/zettelkasten",
     },
   },
 

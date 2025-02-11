@@ -13,7 +13,7 @@ return {
       workspaces = {
         {
           name = "zettelkasten",
-          path = "/home/dimpo/onedrive/Documents/zettelkasten",
+          path = "~/vault/zettelkasten",
         },
       },
     },
